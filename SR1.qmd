@@ -12,25 +12,25 @@ date: 2026-01-09
 
 -   [ ] **1. Which learning goals from the syllabus are you most excited about?**
 
-Your answer here
+Identify which types of visualizations are most appropriate for your data and your audience.
 
 -   [ ] **2. What do you hope to get out of this class?**
 
-Your answer here
+I hope to learn how to select which type of visualization to use to best communicate my data.
 
 -   [ ] **3. How do you plan on accomplishing your learning goals for this course? *Note:* be specific here! Instead of writing, “I will complete homework assignments” or “I will study,” you can make these more specific strategies: “I will create a schedule to map out assignments“ (elaborate on this), “I will use the homework assignments as opportunities to practice X,” I will communicate with classmates to ask for help after trying X,” “I will participate in online learning communities, such as TidyTuesday...” etc.**
 
-Your answer here
+I want to think critically about the visualizations that I see in academic publications, and use the tools I learn from this class to ask the right questions. I am always surprised by how purposeful visualizations are, and I want to get more familiar with all of the aspects of visuals that I should be analyzing. I intend on doing this by thinking of every aspect of a visualization as a line of code, and relating that to what we practice in class. I don't expect to be able to "de-code" every graph that I see, but I intend on trying to re-create visualizations that I find particularly effective in R with help from my classmates, instructors, and class materials.
 
 ## (Optional) Help me get to know you better!
 
 -   [ ] **1. Where are you coming from (e.g. “I recently finished my undergraduate degree”, “I've been working in industry X for Y years”)?**
 
-    Your answer here
+    I finished my undergraduate degree in environmental science in 2022, and spent 2.5 years working in Austin as a researcher for the state of Texas environmental commission in the drinking water supply division. I stayed in Texas because I was in love with playing live music, my job was not very rewarding - but I appreciate my experience there more and more every day.
 
 -   [ ] **2. If you have a particular career goal in mind, how does this course apply to your future career, if at all?**
 
-    Your answer here
+    I will need to make convincing and appealing visuals to achieve my career goals. I want to help advise the next generation of water policy in the US, and that will mean presenting data in an effective format.
 
 -   [ ] **3. What do you wish your instructors knew about you, but don't?**
 
@@ -38,30 +38,30 @@ Your answer here
 
 -   [ ] **4. What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them?**
 
-    Your answer here
-
 -   [ ] **5. How confident do you feel in your data visualization skills? Why?**
 
-Your answer here
+Not confident. I am not particularly skilled with aesthetics, and I don't have much patience for making things look good until I am beyond satisfied with my actual data product. I find it frustrating to put a lot of focus into making my visuals appealing when my data science skills are still far behind par. I think that one day I will be very motivated to improve my aesthetics, and that my experience in this class will be very beneficial then, but today is not that day.
 
 -   [ ] **6. How confident do you feel in your coding skills (primarily R, but feel free to elaborate on any of the languages you’ve used)? Why?**
 
-    Your answer here
+    My confidence is growing. I have only used R, Python, and limited SQL in ArcGIS. I find it difficult to memorize syntax while learning multiple languages at once - but I also find it very satisfying to know how to code and get meaningful results.
 
 -   [ ] **7. What have you struggled with in the past in other graduate-level courses? Why?**
 
-    Your answer here
+    I have struggled with memorizing syntax while learning multiple languages, I think because it's all so new and the program moves very quickly. But I love learning, and I appreciate the high standard that we're held to.
 
 -   [ ] **8. Of the courses you’re taking this quarter, which do you expect to be the most challenging? Most demanding?**
 
-    Your answer here
+    I expect this class to be the most challenging because I lack interest in making things look appealing. I'm excited to learn how to communicate information effectively, and I'm sure that there will be things in this class that I latch on to and am able to use enthusiasm as a learning catalyst. That being said, I don't have much enthusiasm for picking color palettes and getting my spacing and labels right - and those seem to be the things that I spend a lot of time on because I never know what "right" is. I think that environmental modeling and my capstone will demand the most time of any of my classes - because so far they seem to have bottomless depth of thought.
 
 -   [ ] **9. What responsibilities do you have outside of school, and how do you want to balance them?**
 
-    Your answer here
+    I do not have a job - only my hobbies. School is my primary priority and I do not expect issues balancing it with my personal life. I am responsible for getting good sleep, eating good meals, and treating my friends/colleagues with respect. This is something I have never had issues with in the past - and I'm excited to continue finding balance in life.
 
 -   [ ] **10. What activity(ies) (outside of school / work) brings you the most joy? How do you plan to incorporate that activity into your schedule this quarter (if at all)? If you are unable to do so, is there something else you can plan to do that will bring you similar joy?**
 
-    Your answer here
+    I love swimming, cycling, playing sports, playing in bands, watching movies, cooking, and playing games with my friends. I am currently training for a triathlon on an exercise schedule, and have regularly scheduled band rehearsals with multiple groups. My hobby-cohorts are well aware of my priorities, and school always comes first (after physical and mental well-being). I plan on adjust my music and exercise schedule as school ramps up - but I'm looking forward to doing all of them all quarter.
 
 -   [ ] **11. What is a piece of media you enjoyed recently (e.g. music, book, movie, meme)?**
+
+I just re-watched Rise of the Planet of the Apes and Dawn of the Planet of the Apes. Apes together strong! I love the way that they get forgiveness and permission from each-other. I also love how nation-building is depicted in the films - so relatable!
